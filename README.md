@@ -15,6 +15,8 @@
 
 **Expo**
 
+* [Add an Image Picker to a React Native App: An Easy Guide](https://blog.waldo.io/add-an-image-picker-react-native-app/)
+
 Note that Expo's [expo-media-library](https://github.com/expo/expo/tree/master/packages/expo-media-library) doesn't support `scoped storage`
  
  ![](https://i.imgur.com/qTBBNYr.png)
